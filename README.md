@@ -5,9 +5,11 @@ a system designed to streamline medical consultations and act as a powerful digi
 
 This project includes:
 <p>
-  <img src="https://skillicons.dev/icons?i=csharp" width="24px" />
-  <img src="https://skillicons.dev/icons?i=js" width="24px" />
-  <img src="https://skillicons.dev/icons?i=html" width="24px" />
+
+
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="50px" />
+  <img src="https://skillicons.dev/icons?i=js" width="50px" />
+  <img src="https://skillicons.dev/icons?i=html" width="50px" />
 </p>
 
 
