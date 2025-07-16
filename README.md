@@ -4,6 +4,12 @@
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
 This project includes:
+<p>
+  <img src="https://skillicons.dev/icons?i=csharp" width="24px" />
+  <img src="https://skillicons.dev/icons?i=js" width="24px" />
+  <img src="https://skillicons.dev/icons?i=html" width="24px" />
+</p>
+
 
 - 🗂️ Patient history management  
 - 📅 Appointment scheduling  
