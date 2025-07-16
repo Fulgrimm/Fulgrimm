@@ -40,7 +40,7 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 
 ## 📫 Connect with me
 
-📧 miguel.your.email@example.com  
+📧 fulgrim1@outlook.es 
 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 🌐 [Website (SOON)]  
 
