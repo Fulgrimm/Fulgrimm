@@ -11,7 +11,7 @@ This project includes:
   <img src="https://skillicons.dev/icons?i=js" width="50px" />
   <img src="https://skillicons.dev/icons?i=html" width="50px" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50px" />
-  <img src="https://icon-library.com/icon/sql-icon-8.html" width="50px" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" width="50px" />
 
 
 </p>
