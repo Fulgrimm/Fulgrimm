@@ -22,8 +22,6 @@ This project includes:
 
 ## 💙 Why I do this
 
-My goal isn’t to become rich.  
-I'm building meaningful tools to help my parents retire with dignity, after facing hard times.  
 This system isn’t just code — it’s gratitude, love, and purpose expressed through technology.
 
 ---
