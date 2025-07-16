@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👨‍💻 Hi there, I’m Miguel — a developer with purpose
 
-<!--
-**Fulgrimm/Fulgrimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on **Gemini Clínico**,  
+a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
-Here are some ideas to get you started:
+This project includes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗂️ Patient history management  
+- 📅 Appointment scheduling  
+- 🔐 Personalized login system  
+- 🧠 AI-powered medical interface using Gemini  
+
+---
+
+## ⚙️ My most used languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fulgrimm&layout=compact&langs_count=3&theme=default)
+
+> 🥇 C#  | 🥈 JavaScript  | 🥉 HTML  
+
+---
+
+## 💙 Why I do this
+
+My goal isn’t to become rich.  
+I'm building meaningful tools to help my parents retire with dignity, after facing hard times.  
+This system isn’t just code — it’s gratitude, love, and purpose expressed through technology.
+
+---
+
+## 📫 Connect with me
+
+📧 miguel.your.email@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🌐 [Website or Demo — optional]  
+
+---
+
+## 📦 Featured Repositories
+
+- 🩺 [Gemini Clínico](https://github.com/Fulgrimm/GeminiClinico) — Medical system with AI integration *(licensed/private)*  
+- 💬 [Gemini Medical Chat](https://github.com/Fulgrimm/GeminiChatDemo) — Demo version of the conversational assistant module  
+
