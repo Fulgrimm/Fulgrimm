@@ -30,7 +30,7 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 
 📧 miguel.your.email@example.com  
 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🌐 [Website or Demo — optional]  
+🌐 [Website (SOON)]  
 
 ---
 
