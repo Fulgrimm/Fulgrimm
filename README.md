@@ -10,7 +10,7 @@ This project includes:
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="50px" />
   <img src="https://skillicons.dev/icons?i=js" width="50px" />
   <img src="https://github.com/Fulgrimm/Fulgrimm/edit/main/README.md" width="50px" />
-  <img src="https://skillicons.dev/icons?i=html" width="50px" />
+  <img src="icons/CSS.svg" width="50px" />
 
 
 </p>
