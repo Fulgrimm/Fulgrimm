@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Clinic%20Gemini-Medical%20AI%20System-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Echoes%20of%20Ithar-Narrative%20RPG-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/What%20They%20Didn't%20Tell-Narrative%20RPG-purple?style=for-the-badge" />
 </p>
 
 ---
@@ -26,7 +26,7 @@ This project includes:
 
 ---
 
-## 🎮 Parallel Project: *Echoes of Ithar*
+## 🎮 Parallel Project: *What They Didn't Tell*
 
 <p>
   <img src="https://skillicons.dev/icons?i=csharp" width="45px" />
@@ -37,7 +37,7 @@ This project includes:
 
 > *A narrative-driven RPG built alongside Clinic Gemini — channeling resilience, memory, and the mythic echoes of a forgotten world.*
 
-In *Echoes of Ithar*, players awaken in a surreal city caught between reality and legend. This world reacts to your decisions, reshaping its lore through ancient archives, emotional memories, and dynamic storytelling powered by AI. The game features:
+In *What They Didn't Tell*, players awaken in a surreal city caught between reality and legend. This world reacts to your decisions, reshaping its lore through ancient archives, emotional memories, and dynamic storytelling powered by AI. The game features:
 
 - 🧠 AI-enhanced NPCs with adaptive responses  
 - 📜 Branching storylines woven through modular design  
@@ -74,4 +74,4 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 
 - 🩺 [Clinic Gemini](https://github.com/Fulgrimm/GeminiClinico) — Medical system with AI integration *(licensed/private)*  
 - 💬 [Gemini Medical Chat](https://github.com/Fulgrimm/GeminiChatDemo) — Demo version of the conversational assistant module  
-- 🌌 [Echoes of Ithar (Preview)](https://github.com/Fulgrimm/EchoesOfIthar) — Experimental RPG exploring memory and myth *(in development)*  
+- 🌌 [What They Didn't Tell (Preview)](https://github.com/Fulgrimm/WhatTheyDidntTell) — Experimental RPG exploring memory and myth *(in development)*  
