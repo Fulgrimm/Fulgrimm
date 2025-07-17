@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Clinic%20Gemini-Medical%20AI%20System-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/What%20They%20Didn't%20Tell-Narrative%20RPG-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proyect--T-Narrative%20RPG-purple?style=for-the-badge" />
+
+
 </p>
 
 ---
@@ -26,7 +28,7 @@ This project includes:
 
 ---
 
-## 🎮 Parallel Project: *What They Didn't Tell*
+## 🎮 Parallel Project: *T*
 
 <p>
   <img src="https://skillicons.dev/icons?i=csharp" width="45px" />
