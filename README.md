@@ -1,26 +1,50 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Clinic%20Gemini-Medical%20AI%20System-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Echoes%20of%20Ithar-Narrative%20RPG-purple?style=for-the-badge" />
+</p>
+
+---
+
 ## 👨‍💻 Hi there, I’m Miguel — a developer
 
-🔭 I’m currently working on **Clinic Gemini **,  
+🔭 I’m currently working on **Clinic Gemini**,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
 This project includes:
 <p>
-
-
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="50px" />
-  <img src="https://skillicons.dev/icons?i=js" width="50px" />
-  <img src="https://skillicons.dev/icons?i=html" width="50px" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50px" />
-  <img src="https://skillicons.dev/icons?i=sqlserver" width="50px" />
-
-
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45px" />
+  <img src="https://skillicons.dev/icons?i=js" width="45px" />
+  <img src="https://skillicons.dev/icons?i=html" width="45px" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45px" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" width="45px" />
 </p>
-
 
 - 🗂️ Patient history management  
 - 📅 Appointment scheduling  
 - 🔐 Personalized login system  
 - 🧠 AI-powered medical interface using Gemini  
+
+---
+
+## 🎮 Parallel Project: *Echoes of Ithar*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=csharp" width="45px" />
+  <img src="https://skillicons.dev/icons?i=unity" width="45px" />
+  <img src="https://skillicons.dev/icons?i=ai" width="45px" />
+  <img src="https://skillicons.dev/icons?i=json" width="45px" />
+</p>
+
+> *A narrative-driven RPG built alongside Clinic Gemini — channeling resilience, memory, and the mythic echoes of a forgotten world.*
+
+In *Echoes of Ithar*, players awaken in a surreal city caught between reality and legend. This world reacts to your decisions, reshaping its lore through ancient archives, emotional memories, and dynamic storytelling powered by AI. The game features:
+
+- 🧠 AI-enhanced NPCs with adaptive responses  
+- 📜 Branching storylines woven through modular design  
+- 🌙 Atmospheric gameplay inspired by Latin American folklore  
+- 💾 Emotional memory tracking with persistent consequences  
+
+🛠️ Built with scalability in mind — just like Gemini — but crafted to explore identity and healing through interactive storytelling.
 
 ---
 
@@ -40,7 +64,7 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 
 ## 📫 Connect with me
 
-📧 fulgrim1@outlook.es 
+📧 fulgrim1@outlook.es  
 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 🌐 [Website (SOON)]  
 
@@ -50,4 +74,4 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 
 - 🩺 [Clinic Gemini](https://github.com/Fulgrimm/GeminiClinico) — Medical system with AI integration *(licensed/private)*  
 - 💬 [Gemini Medical Chat](https://github.com/Fulgrimm/GeminiChatDemo) — Demo version of the conversational assistant module  
-
+- 🌌 [Echoes of Ithar (Preview)](https://github.com/Fulgrimm/EchoesOfIthar) — Experimental RPG exploring memory and myth *(in development)*  
