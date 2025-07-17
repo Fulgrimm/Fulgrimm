@@ -1,6 +1,6 @@
 ## 👨‍💻 Hi there, I’m Miguel — a developer
 
-🔭 I’m currently working on **Gemini Clínico**,  
+🔭 I’m currently working on **Clinic Gemini **,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
 This project includes:
@@ -48,6 +48,6 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 
 ## 📦 Featured Repositories
 
-- 🩺 [Gemini Clínico](https://github.com/Fulgrimm/GeminiClinico) — Medical system with AI integration *(licensed/private)*  
+- 🩺 [Clinic Gemini](https://github.com/Fulgrimm/GeminiClinico) — Medical system with AI integration *(licensed/private)*  
 - 💬 [Gemini Medical Chat](https://github.com/Fulgrimm/GeminiChatDemo) — Demo version of the conversational assistant module  
 
