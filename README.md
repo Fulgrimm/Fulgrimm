@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Clinic%20Gemini-Medical%20AI%20System-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Proyect--T-Narrative%20RPG-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proyect--T-Narrative%20Horror%20RPG-purple?style=for-the-badge" />
 
 
 </p>
