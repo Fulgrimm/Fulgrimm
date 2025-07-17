@@ -1,4 +1,4 @@
-## 👨‍💻 Hi there, I’m Miguel — a developer with purpose
+## 👨‍💻 Hi there, I’m Miguel — a developer
 
 🔭 I’m currently working on **Gemini Clínico**,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
