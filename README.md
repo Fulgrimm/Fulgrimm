@@ -39,7 +39,7 @@ This project includes:
 
 > *A narrative-driven RPG built alongside Clinic Gemini — channeling resilience, memory, and the mythic echoes of a forgotten world.*
 
-In *What They Didn't Tell*, players awaken in a surreal city caught between reality and legend. This world reacts to your decisions, reshaping its lore through ancient archives, emotional memories, and dynamic storytelling powered by AI. The game features:
+In *What They Didn't Tell*, players awaken in a surreal city caught between reality and legend. This world reacts to your decisions, reshaping its lore through ancient archives, emotional memories, and dynamic storytelling. The game features:
 
 - 🧠 AI-enhanced NPCs with adaptive responses  
 - 📜 Branching storylines woven through modular design  
