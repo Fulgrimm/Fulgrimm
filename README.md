@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 Hi there, I’m Miguel — a developer
+👨‍💻 Hi there, I’m Miguel — a developer
 
 🔭 I’m currently working on **Clinic Gemini**,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
