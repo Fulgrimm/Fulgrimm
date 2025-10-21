@@ -9,7 +9,7 @@
 
 👨‍💻 Hi there, I’m Miguel — a developer
 
-🔭 I’m currently working on **Clinic Gemini**,  
+🔭 I’m currently working on **Lumina**,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
 This project includes:
