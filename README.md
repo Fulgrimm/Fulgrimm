@@ -34,12 +34,19 @@ This project includes:
 
 ## 🎮 Parallel Project: *T*
 
+
+<p align="center">
+  <img src="/ProyectTlogo.png" alt="ProyectTlogo" width="500"/>
+</p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=csharp" width="45px" />
   <img src="https://skillicons.dev/icons?i=unity" width="45px" />
   <img src="https://skillicons.dev/icons?i=ai" width="45px" />
   <img src="https://skillicons.dev/icons?i=json" width="45px" />
 </p>
+
+
 
 > *A narrative-driven RPG built alongside Clinic Gemini — channeling resilience, memory, and the mythic echoes of a forgotten world.*
 
