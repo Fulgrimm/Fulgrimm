@@ -13,7 +13,9 @@
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
 
-<img src="/Luminaicon.png" alt="LuminaIcon" width="500"/>
+<div align="center">
+  <img src="/Luminaicon.png" alt="LuminaIcon" width="500"/>
+</div>
 
 This project includes:
 <p>
@@ -70,7 +72,6 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 ## 📫 Connect with me
 
 📧 fulgrim1@outlook.es  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 🌐 [Website (SOON)]  
 
 ---
