@@ -12,6 +12,8 @@
 🔭 I’m currently working on **Lumina**,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
+![LuminaIcon](./images/Luminaicon.png)
+
 This project includes:
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="45px" />
