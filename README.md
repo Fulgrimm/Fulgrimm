@@ -75,7 +75,7 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect with me.
 
 📧 fulgrim1@outlook.es  
 🌐 [Website (SOON)]  
