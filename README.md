@@ -13,6 +13,7 @@
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
 ![LuminaIcon](/Luminaicon.png)
+<img src="/Luminaicon.png" alt="LuminaIcon" width="500"/>
 
 This project includes:
 <p>
