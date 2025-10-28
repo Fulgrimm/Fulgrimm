@@ -12,7 +12,7 @@
 🔭 I’m currently working on **Lumina**,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
-![LuminaIcon](./Images/Luminaicon.png)
+![LuminaIcon](/images/Luminaicon.png)
 
 This project includes:
 <p>
