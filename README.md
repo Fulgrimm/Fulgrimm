@@ -61,7 +61,7 @@ In *What They Didn't Tell*, players awaken in a surreal city caught between real
 
 ---
 
-## ⚙️ My most used languages
+## ⚙️ My most used languages..
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fulgrimm&layout=compact&langs_count=3&theme=default)
 
