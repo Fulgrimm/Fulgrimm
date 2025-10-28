@@ -12,10 +12,9 @@
 🔭 I’m currently working on **Lumina**,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
-
-<div align="center">
+<p align="center">
   <img src="/Luminaicon.png" alt="LuminaIcon" width="500"/>
-</div>
+</p>
 
 This project includes:
 <p>
