@@ -9,6 +9,14 @@ s
 
 👨‍💻 Hi there, I’m Miguel — a developer
 
+
+🌐 Web and E-commerce Projects
+I am expanding my portfolio with projects focused on digital business solutions:
+
+Website for a Sublimation Company: Designing and developing the digital presence for a sublimation business.
+
+Motorcycle Parts E-commerce Platform: Creating a complete e-commerce platform for the sale of motorcycle spare parts and accessories.
+
 🔭 I’m currently working on **Lumina**,  
 a system designed to streamline medical consultations and act as a powerful digital assistant for healthcare professionals.
 
