@@ -5,7 +5,6 @@
 
 </p>
 s
----
 
 👨‍💻 Hi there, I’m Miguel — a developer
 
