@@ -87,7 +87,7 @@ This system isn’t just code — it’s gratitude, love, and purpose expressed 
 📧 fulgrim1@outlook.es  
 🌐 [Website (SOON)]  
 
----
+------------------------------------------
 
 ## 📦 Featured Repositories
 
