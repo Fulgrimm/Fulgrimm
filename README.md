@@ -4,7 +4,7 @@
 
 
 </p>
-s
+
 
 👨‍💻 Hi there, I’m Miguel — a developer
 
@@ -66,7 +66,7 @@ In *What They Didn't Tell*, players awaken in a surreal city caught between real
 
 🛠️ Built with scalability in mind — just like Gemini — but crafted to explore identity and healing through interactive storytelling.
 
----
+-----------
 
 ## ⚙️ My most used languages..
 
