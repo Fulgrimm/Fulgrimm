@@ -37,7 +37,7 @@ This project includes:
 - 🔐 Personalized login system  
 - 🧠 AI-powered medical interface using Gemini  
 
----------------
+------------------------------
 
 ## 🎮 Parallel Project: *T*
 
